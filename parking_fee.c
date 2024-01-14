@@ -23,7 +23,7 @@ int main()
     {
         scanf("%d", &minute);
 
-        if (minute >= 0 || minute <= 59)
+        if (minute >= 0 && minute <= 59)
             break;
     }
 
