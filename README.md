@@ -19,6 +19,16 @@ fibo_array(10, 0, 1)
 output: {0, 1, 1, 2, 3, 5, 8, 13, 21, 34}
 ```
 
+# parking_fee.c
+```c
+intput:
+0
+100
+50
+
+output: 10.00
+```
+
 # recursive.c
 ```c
 sum("824137")
